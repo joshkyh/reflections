@@ -3,3 +3,9 @@ share with people. Multiple devices.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 manage merge. bugs may be introduced otherwise.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is clone on server.
+Clone onto Desktop, from Server or Desktop.
+Branch is a label on a group of commits.
+
